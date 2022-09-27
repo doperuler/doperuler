@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doperuler
-- 👀 I’m interested in ...Data Analytics
-- 🌱 I’m currently learning ...Deep learning
-- 💞️ I’m looking to collaborate on ...Data Analyst
+- 👀 I’m working in the field of ...Data Analytics
+- 🌱 I’m currently learning ...Big data
+- 💞️ I’m looking to collaborate on ...Data Scientist
 - 📫 How to reach me ...through my community.
 
 <!---
