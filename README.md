@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doperuler
+- 👋 Hi, I’m Pankaj Kumar Mandal
 - 👀 I’m working in the field of ...Data Analytics
 - 🌱 I’m currently learning ...Big data
 - 💞️ I’m looking to collaborate on ...Data Scientist
